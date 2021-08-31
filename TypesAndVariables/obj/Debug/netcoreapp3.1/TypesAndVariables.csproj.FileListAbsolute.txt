@@ -1,0 +1,13 @@
+C:\Users\raydogdu\Source\Repos\CSharpCourse\TypesAndVariables\bin\Debug\netcoreapp3.1\TypesAndVariables.exe
+C:\Users\raydogdu\Source\Repos\CSharpCourse\TypesAndVariables\bin\Debug\netcoreapp3.1\TypesAndVariables.deps.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\TypesAndVariables\bin\Debug\netcoreapp3.1\TypesAndVariables.runtimeconfig.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\TypesAndVariables\bin\Debug\netcoreapp3.1\TypesAndVariables.runtimeconfig.dev.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\TypesAndVariables\bin\Debug\netcoreapp3.1\TypesAndVariables.dll
+C:\Users\raydogdu\Source\Repos\CSharpCourse\TypesAndVariables\bin\Debug\netcoreapp3.1\TypesAndVariables.pdb
+C:\Users\raydogdu\Source\Repos\CSharpCourse\TypesAndVariables\obj\Debug\netcoreapp3.1\TypesAndVariables.csprojAssemblyReference.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\TypesAndVariables\obj\Debug\netcoreapp3.1\TypesAndVariables.AssemblyInfoInputs.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\TypesAndVariables\obj\Debug\netcoreapp3.1\TypesAndVariables.AssemblyInfo.cs
+C:\Users\raydogdu\Source\Repos\CSharpCourse\TypesAndVariables\obj\Debug\netcoreapp3.1\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\TypesAndVariables\obj\Debug\netcoreapp3.1\TypesAndVariables.dll
+C:\Users\raydogdu\Source\Repos\CSharpCourse\TypesAndVariables\obj\Debug\netcoreapp3.1\TypesAndVariables.pdb
+C:\Users\raydogdu\Source\Repos\CSharpCourse\TypesAndVariables\obj\Debug\netcoreapp3.1\TypesAndVariables.genruntimeconfig.cache
