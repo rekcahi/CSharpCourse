@@ -1,0 +1,13 @@
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.exe
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.deps.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.runtimeconfig.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.runtimeconfig.dev.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.dll
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.pdb
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.csprojAssemblyReference.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.AssemblyInfoInputs.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.AssemblyInfo.cs
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.dll
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.pdb
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.genruntimeconfig.cache
