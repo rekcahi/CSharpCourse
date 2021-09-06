@@ -1,0 +1,13 @@
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Strings\bin\Debug\netcoreapp3.1\Strings.exe
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Strings\bin\Debug\netcoreapp3.1\Strings.deps.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.dev.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Strings\bin\Debug\netcoreapp3.1\Strings.dll
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Strings\bin\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfoInputs.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfo.cs
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.CoreCompileInputs.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Strings\obj\Debug\netcoreapp3.1\Strings.dll
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Strings\obj\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Strings\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Strings\obj\Debug\netcoreapp3.1\Strings.csprojAssemblyReference.cache
