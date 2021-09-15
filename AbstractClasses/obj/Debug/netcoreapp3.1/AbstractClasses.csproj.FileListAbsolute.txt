@@ -1,0 +1,13 @@
+C:\Users\raydogdu\Source\Repos\CSharpCourse\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.exe
+C:\Users\raydogdu\Source\Repos\CSharpCourse\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.deps.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.dev.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.dll
+C:\Users\raydogdu\Source\Repos\CSharpCourse\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.pdb
+C:\Users\raydogdu\Source\Repos\CSharpCourse\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csprojAssemblyReference.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfo.cs
+C:\Users\raydogdu\Source\Repos\CSharpCourse\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.dll
+C:\Users\raydogdu\Source\Repos\CSharpCourse\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.pdb
+C:\Users\raydogdu\Source\Repos\CSharpCourse\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.genruntimeconfig.cache

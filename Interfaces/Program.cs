@@ -6,11 +6,35 @@ namespace Interfaces
     {
         static void Main(string[] args)
         {
-            PersonManager personManager = new PersonManager();
-            Customer customer = new Customer { Id = 1, FistName = "Ali", LastName = "Veli", Address = "Adress" };
-            personManager.Add(customer);
+           // NewMethod();
+            ICustomerDal[] customerDals = new ICustomerDal[2]
+            {
+                new SqlServerCustomerDal(),
+                new OracleCustomerDal()
+            };
+            foreach (var customerDal in customerDals)
+            {
+                customerDal.Add();
+
+            }
+        }
+
+        private static void NewMethod()
+        {
+            CustomerManager customerManager = new CustomerManager();
+            customerManager.Add(new SqlServerCustomerDal());
+            //Interfaces newlenemez IPerson iperson=new IIPerson()
+            IPerson person = new Customer();// bu şekilde yapılabilir
+                                            // InterfacesIntro();
             Console.WriteLine("Hello World!");
         }
+
+        private static void InterfacesIntro()
+    {
+        PersonManager personManager = new PersonManager();
+        Customer customer = new Customer { Id = 1, FistName = "Ali", LastName = "Veli", Address = "Adress" };
+        personManager.Add(customer);
+    }
     }
     interface IPerson
     {
@@ -38,9 +62,7 @@ namespace Interfaces
     {
         public void Add(IPerson person)
         {
-
-            Console.WriteLine(person.FistName + "Added!");
-
+         Console.WriteLine(person.FistName + "Added!");
         }
 
     }
