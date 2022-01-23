@@ -1,0 +1,13 @@
+C:\Users\raydogdu\Source\Repos\CSharpCourse\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.exe
+C:\Users\raydogdu\Source\Repos\CSharpCourse\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.deps.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.runtimeconfig.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.runtimeconfig.dev.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.dll
+C:\Users\raydogdu\Source\Repos\CSharpCourse\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.pdb
+C:\Users\raydogdu\Source\Repos\CSharpCourse\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.csprojAssemblyReference.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.AssemblyInfoInputs.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.AssemblyInfo.cs
+C:\Users\raydogdu\Source\Repos\CSharpCourse\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.dll
+C:\Users\raydogdu\Source\Repos\CSharpCourse\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.pdb
+C:\Users\raydogdu\Source\Repos\CSharpCourse\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.genruntimeconfig.cache

@@ -6,6 +6,18 @@ namespace Classes
     {
         static void Main(string[] args)
         {
+            Customer customer = new Customer();
+            customer.Id = 1;
+            customer.FirstName = "Recai1";
+            customer.LastName = "Aydoğdu1";
+            customer.City = "Bitlis";
+
+            Customer customer1 = new Customer { Id = 2, FirstName = "Recai2", LastName = "Aydoğdu2", City = "Tatvan" };
+           
+            Console.WriteLine(customer.FirstName);
+
+
+
             //Customer customer = new Customer
             //{
 
@@ -14,8 +26,8 @@ namespace Classes
             //    LastName = "Aydoğdu"
 
             //};
-          //  NewMethod();
-         // Console.WriteLine(customer.FirstName);
+            //  NewMethod();
+            // Console.WriteLine(customer.FirstName);
         }
 
         private static void NewMethod()

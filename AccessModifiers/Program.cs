@@ -8,7 +8,7 @@ namespace AccessModifiers
         {
             //private:sadece tanımlandığı blokta kullanılır
             //protected: inherit edilen classtan kullanılabilir
-            //internal:
+            //internal:bir classın default değeri internaldır
             Console.WriteLine("Hello World!");
             MyClass myClass = new MyClass();
           
@@ -27,6 +27,10 @@ namespace AccessModifiers
         public void Save()
         {
             MyProperty2= 12;// protected e erişilebiliyor
+
+        }
+      private  class MyClass3//bir class ancak bu şekilde private olarak kullanılır
+        {
 
         }
       

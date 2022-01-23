@@ -8,21 +8,20 @@ namespace Interfaces
         {
            // NewMethod();
             ICustomerDal[] customerDals = new ICustomerDal[2]
-            {
+            {  
                 new SqlServerCustomerDal(),
                 new OracleCustomerDal()
             };
             foreach (var customerDal in customerDals)
             {
                 customerDal.Add();
-
             }
         }
 
         private static void NewMethod()
         {
             CustomerManager customerManager = new CustomerManager();
-            customerManager.Add(new SqlServerCustomerDal());
+            customerManager.Add(new SqlServerCustomerDal());//Polimorfizm
             //Interfaces newlenemez IPerson iperson=new IIPerson()
             IPerson person = new Customer();// bu şekilde yapılabilir
                                             // InterfacesIntro();
@@ -38,6 +37,7 @@ namespace Interfaces
     }
     interface IPerson
     {
+        //interfaces lerde erişim belirteci(public, private) kullanılmaz
         int Id { get; set; }
         string FistName { get; set; }
         string LastName { get; set; }

@@ -6,5 +6,7 @@ namespace Classes
 {
     class CustomerManager
     {
+
+     
     }
 }

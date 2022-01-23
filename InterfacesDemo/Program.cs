@@ -15,73 +15,66 @@ namespace InterfacesDemo
             foreach (var worker in workers)
             {
                 worker.Work();
-
             }
-
-
-
             Console.WriteLine("Hello World!");
         }
     }
     interface IWorker
     {
         void Work();
-
     }
     interface IEat
     {
         void Eat();
-
     }
     interface ISalary
     {
         void Salary();
-
     }
     class Manager : IWorker, IEat, ISalary
     {
         public void Eat()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Manager Eat");
         }
 
         public void Salary()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Manager Salary");
         }
 
         public void Work()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Manager Work");
         }
     }
     class Worker : IWorker, IEat, ISalary
     {
         public void Eat()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Worker Eat");
         }
 
         public void Salary()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Worker Salary");
         }
 
         public void Work()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Worker Work");
         }
     }
     class Robot : ISalary, IWorker
     {
         public void Salary()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Robot Salary");
         }
 
         public void Work()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Robot Work");
         }
     }
 }

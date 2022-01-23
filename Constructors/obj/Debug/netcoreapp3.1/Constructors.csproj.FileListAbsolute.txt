@@ -1,0 +1,13 @@
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Constructors\bin\Debug\netcoreapp3.1\Constructors.exe
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Constructors\bin\Debug\netcoreapp3.1\Constructors.deps.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.dev.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Constructors\bin\Debug\netcoreapp3.1\Constructors.dll
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Constructors\bin\Debug\netcoreapp3.1\Constructors.pdb
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Constructors\obj\Debug\netcoreapp3.1\Constructors.csprojAssemblyReference.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfoInputs.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfo.cs
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Constructors\obj\Debug\netcoreapp3.1\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Constructors\obj\Debug\netcoreapp3.1\Constructors.dll
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Constructors\obj\Debug\netcoreapp3.1\Constructors.pdb
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Constructors\obj\Debug\netcoreapp3.1\Constructors.genruntimeconfig.cache
