@@ -1,0 +1,13 @@
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ReferanceAndValueType\bin\Debug\netcoreapp3.1\ReferanceAndValueType.exe
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ReferanceAndValueType\bin\Debug\netcoreapp3.1\ReferanceAndValueType.deps.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ReferanceAndValueType\bin\Debug\netcoreapp3.1\ReferanceAndValueType.runtimeconfig.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ReferanceAndValueType\bin\Debug\netcoreapp3.1\ReferanceAndValueType.runtimeconfig.dev.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ReferanceAndValueType\bin\Debug\netcoreapp3.1\ReferanceAndValueType.dll
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ReferanceAndValueType\bin\Debug\netcoreapp3.1\ReferanceAndValueType.pdb
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ReferanceAndValueType\obj\Debug\netcoreapp3.1\ReferanceAndValueType.csprojAssemblyReference.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ReferanceAndValueType\obj\Debug\netcoreapp3.1\ReferanceAndValueType.AssemblyInfoInputs.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ReferanceAndValueType\obj\Debug\netcoreapp3.1\ReferanceAndValueType.AssemblyInfo.cs
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ReferanceAndValueType\obj\Debug\netcoreapp3.1\ReferanceAndValueType.csproj.CoreCompileInputs.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ReferanceAndValueType\obj\Debug\netcoreapp3.1\ReferanceAndValueType.dll
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ReferanceAndValueType\obj\Debug\netcoreapp3.1\ReferanceAndValueType.pdb
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ReferanceAndValueType\obj\Debug\netcoreapp3.1\ReferanceAndValueType.genruntimeconfig.cache

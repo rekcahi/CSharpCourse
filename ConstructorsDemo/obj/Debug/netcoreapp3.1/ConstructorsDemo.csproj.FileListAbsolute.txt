@@ -1,0 +1,13 @@
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ConstructorsDemo\bin\Debug\netcoreapp3.1\ConstructorsDemo.exe
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ConstructorsDemo\bin\Debug\netcoreapp3.1\ConstructorsDemo.deps.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ConstructorsDemo\bin\Debug\netcoreapp3.1\ConstructorsDemo.runtimeconfig.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ConstructorsDemo\bin\Debug\netcoreapp3.1\ConstructorsDemo.runtimeconfig.dev.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ConstructorsDemo\bin\Debug\netcoreapp3.1\ConstructorsDemo.dll
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ConstructorsDemo\bin\Debug\netcoreapp3.1\ConstructorsDemo.pdb
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ConstructorsDemo\obj\Debug\netcoreapp3.1\ConstructorsDemo.csprojAssemblyReference.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ConstructorsDemo\obj\Debug\netcoreapp3.1\ConstructorsDemo.AssemblyInfoInputs.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ConstructorsDemo\obj\Debug\netcoreapp3.1\ConstructorsDemo.AssemblyInfo.cs
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ConstructorsDemo\obj\Debug\netcoreapp3.1\ConstructorsDemo.csproj.CoreCompileInputs.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ConstructorsDemo\obj\Debug\netcoreapp3.1\ConstructorsDemo.dll
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ConstructorsDemo\obj\Debug\netcoreapp3.1\ConstructorsDemo.pdb
+C:\Users\raydogdu\Source\Repos\CSharpCourse\ConstructorsDemo\obj\Debug\netcoreapp3.1\ConstructorsDemo.genruntimeconfig.cache

@@ -20,12 +20,25 @@ namespace AccessModifiers
         public int MyProperty1 { get; set; }
         protected int MyProperty2 { get; set; }
 
+        public virtual void test()
+        {
+            Console.WriteLine("MyClass");
+        }
+
 
     }
     class MyClass2:MyClass
     {
+
+        public override void test()
+        {
+            Console.WriteLine("MyClass2");
+        }
+
+
         public void Save()
         {
+            MyProperty1 = 3;//public e erişilebiliyor
             MyProperty2= 12;// protected e erişilebiliyor
 
         }
