@@ -1,0 +1,13 @@
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Events\bin\Debug\netcoreapp3.1\Events.exe
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Events\bin\Debug\netcoreapp3.1\Events.deps.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.dev.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Events\bin\Debug\netcoreapp3.1\Events.dll
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Events\bin\Debug\netcoreapp3.1\Events.pdb
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Events\obj\Debug\netcoreapp3.1\Events.csprojAssemblyReference.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfoInputs.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfo.cs
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Events\obj\Debug\netcoreapp3.1\Events.csproj.CoreCompileInputs.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Events\obj\Debug\netcoreapp3.1\Events.dll
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Events\obj\Debug\netcoreapp3.1\Events.pdb
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Events\obj\Debug\netcoreapp3.1\Events.genruntimeconfig.cache
