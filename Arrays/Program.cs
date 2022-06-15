@@ -9,6 +9,7 @@ namespace Arrays
             string[] studensts = { "Recai", "Ali", "Veli" };
 
             int[,] dizi2d = new int[2, 3];
+            //test test
 
             dizi2d[0, 0] = 1;
             dizi2d[0, 1] = 2;
