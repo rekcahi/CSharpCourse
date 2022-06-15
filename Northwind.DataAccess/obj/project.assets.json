@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Northwind.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Northwind.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Northwind.Business.dll": {}
+        }
+      },
+      "Northwind.WebFormUI/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Northwind.WebFormUI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Northwind.WebFormUI.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Northwind.Business/1.0.0": {
+      "type": "project",
+      "path": "../Northwind.Business/Northwind.Business.csproj",
+      "msbuildProject": "../Northwind.Business/Northwind.Business.csproj"
+    },
+    "Northwind.WebFormUI/1.0.0": {
+      "type": "project",
+      "path": "../Northwind.WebFormUI/Northwind.WebFormUI.csproj",
+      "msbuildProject": "../Northwind.WebFormUI/Northwind.WebFormUI.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Northwind.Business >= 1.0.0",
+      "Northwind.WebFormUI >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\raydogdu\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\raydogdu\\Source\\Repos\\CSharpCourse\\Northwind.DataAccess\\Northwind.DataAccess.csproj",
+      "projectName": "Northwind.DataAccess",
+      "projectPath": "C:\\Users\\raydogdu\\Source\\Repos\\CSharpCourse\\Northwind.DataAccess\\Northwind.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\raydogdu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\raydogdu\\Source\\Repos\\CSharpCourse\\Northwind.DataAccess\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\raydogdu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\raydogdu\\Source\\Repos\\CSharpCourse\\Northwind.Business\\Northwind.Business.csproj": {
+              "projectPath": "C:\\Users\\raydogdu\\Source\\Repos\\CSharpCourse\\Northwind.Business\\Northwind.Business.csproj"
+            },
+            "C:\\Users\\raydogdu\\Source\\Repos\\CSharpCourse\\Northwind.WebFormUI\\Northwind.WebFormUI.csproj": {
+              "projectPath": "C:\\Users\\raydogdu\\Source\\Repos\\CSharpCourse\\Northwind.WebFormUI\\Northwind.WebFormUI.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

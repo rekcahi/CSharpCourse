@@ -1,0 +1,8 @@
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Northwind.Entities\bin\Debug\netcoreapp3.1\Northwind.Entities.deps.json
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Northwind.Entities\bin\Debug\netcoreapp3.1\Northwind.Entities.dll
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Northwind.Entities\bin\Debug\netcoreapp3.1\Northwind.Entities.pdb
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Northwind.Entities\obj\Debug\netcoreapp3.1\Northwind.Entities.AssemblyInfoInputs.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Northwind.Entities\obj\Debug\netcoreapp3.1\Northwind.Entities.AssemblyInfo.cs
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Northwind.Entities\obj\Debug\netcoreapp3.1\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Northwind.Entities\obj\Debug\netcoreapp3.1\Northwind.Entities.dll
+C:\Users\raydogdu\Source\Repos\CSharpCourse\Northwind.Entities\obj\Debug\netcoreapp3.1\Northwind.Entities.pdb

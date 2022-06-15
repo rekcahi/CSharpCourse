@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Northwind.Business\Northwind.Business.csproj" />
+    <ProjectReference Include="..\Northwind.WebFormUI\Northwind.WebFormUI.csproj" />
+  </ItemGroup>
+
+</Project>

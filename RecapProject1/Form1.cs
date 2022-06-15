@@ -81,9 +81,7 @@ namespace RecapProject1
                 }
                 else
                 {
-
                     ListProductsByName(txtSearch.Text);
-
                 }
             
             }
